@@ -58,7 +58,7 @@ nav img{
 
 }
 .nav-h ul li a{
-    color: aqua;
+    color: #2d2929;
     text-decoration: none;
     font-size: 30px;
 }
@@ -76,7 +76,7 @@ nav img{
 }
 .text-in{
     width: 90%;
-    color: aqua;
+    color: black;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -95,13 +95,13 @@ nav img{
     font-family:  'Teko';
     margin: 15px 0px 40px;
     font-size: 24px;
-    color: rgb(16, 206, 231);
+    color: rgb(0, 0, 0);
 
 }
 .jsu-btn{
     display: inline-block;
     text-decoration: none;
-    color: rgb(35, 223, 223);
+    color: rgb(265, 223, 223);
     border: 1px solid #fff;
     padding: 12px 34px;
     font-size: 14px;
